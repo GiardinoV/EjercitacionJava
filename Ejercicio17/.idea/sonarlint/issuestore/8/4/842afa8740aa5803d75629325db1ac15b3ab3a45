@@ -1,0 +1,14 @@
+
+Y
+java:S3972F"7Move this "if" to a new line or add the missing "else".(ƒŞÿşÿÿÿÿ8Öñ´Óî/
+T
+java:S3972H"7Move this "if" to a new line or add the missing "else".(Ç•àş8Öñ´Óî/
+T
+java:S3972J"7Move this "if" to a new line or add the missing "else".(ó™Ÿï8Öñ´Óî/
+Y
+java:S3972L"7Move this "if" to a new line or add the missing "else".(óáö˜üÿÿÿÿ8Öñ´Óî/
+T
+java:S3972N"7Move this "if" to a new line or add the missing "else".(Ú…ä8Öñ´Óî/
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8ºŒÓî/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í®Š›úÿÿÿÿ
