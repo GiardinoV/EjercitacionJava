@@ -1,0 +1,33 @@
+
+h	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿”±åúÿÿÿÿ
+6
+java:S3010"!Remove this assignment of "sexo".(ß‘¯K
+J
+java:S2209"5Change this instance-reference to a static reference.(ß‘¯K
+<
+java:S3010"!Remove this assignment of "sexo".(—ğÇšùÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(—ğÇšùÿÿÿÿ
+<
+java:S3010!"!Remove this assignment of "sexo".(—ğÇšùÿÿÿÿ
+P
+java:S2209!"5Change this instance-reference to a static reference.(—ğÇšùÿÿÿÿ
+Q
+java:S2696;"6Make the enclosing method "static" or remove this set.(ñÚÛçùÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(‰²¤Îÿÿÿÿÿ
+M	java:S106M"9Replace this use of System.out or System.err by a logger.(¸™ùs
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ş…«ø
+S	java:S106["9Replace this use of System.out or System.err by a logger.(¤ÖÂÿÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(™ˆˆòùÿÿÿÿ
+K
+java:S2209a"5Change this instance-reference to a static reference.(Šıí¨
+>
+java:S1172d"(Remove this unused method parameter "p".(ê°îÏ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(İ®ëØ
+D
+java:S2140i")Use "java.util.Random.nextInt()" instead.(å²ïûÿÿÿÿ
+D
+java:S1656"/Remove or correct this useless self-assignment.(ß‘¯K
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢©¡’üÿÿÿÿ
+w
+java:S4165"bRemove this useless assignment; "sexo" already holds the assigned value along all execution paths.(ß‘¯K

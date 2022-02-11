@@ -1,0 +1,33 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›«¯Èÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿…Íÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ê¸ˆ)
+V
+java:S1854!";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "num2".(Â‚åıÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "num1".(ô•—´
+?
+java:S1481")Remove this unused "num1" local variable.(ô•—´
+D
+java:S1481")Remove this unused "num2" local variable.(Â‚åıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¥êŠÙ
+G
+java:S1481!",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(·©ÙÉúÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+U
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+C
+java:S1144"-Remove this unused private "comparar" method.(ÑçùŸ
+F
+java:S1144"0Remove this unused private "areaCirculo" method.(î„Í¸
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆûÖ
